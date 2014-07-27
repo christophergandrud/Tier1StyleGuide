@@ -1,9 +1,7 @@
-[<img src="img/LOGO.png" align="right"/>]()
+[<img src="img/LOGO.png" align="left"/>]()
 
-Style Guide
+Style Guide (v0.1)
 ===============
-
-*v0.1*
 
 
 ## Processing CSS
