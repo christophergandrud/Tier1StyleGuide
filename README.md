@@ -1,6 +1,6 @@
 [<img src="img/LOGO.png" align="right"/>]()
 
-Tier 1 Exchange Style Guide
+Style Guide
 ===============
 
 *v0.1*
