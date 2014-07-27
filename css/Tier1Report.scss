@@ -36,7 +36,7 @@ html {
 body {
     font: 100% $font-stack;
     color: $primary-text-color;
-    padding: 10% 10% 10%;
+    margin: 0 auto;
     max-width: $body-max;
 }
 
@@ -133,6 +133,10 @@ tr {
 
 td {
     padding: 2%;
+}
+
+footer {
+    padding: 10% 0% 10% 0%;
 }
 
 /* Shapes and images */
