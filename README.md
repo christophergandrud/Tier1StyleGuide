@@ -1,4 +1,8 @@
-Tier1StyleGuide
+Tier 1 Exchange Style Guide
 ===============
 
-Style Guide for Tier 1 Exchange
+*v0.1*
+
+---
+
+&copy; Tier 1 Exchange (2014)
