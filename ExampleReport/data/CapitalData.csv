@@ -1,0 +1,673 @@
+"","iso2c","country","FB.BNK.CAPA.ZS","year","iso3c","region","capital","longitude","latitude","income","lending","EuropeanRegions"
+"1","AD","Andorra",NA,2012,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"2","AD","Andorra",NA,2010,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"3","AD","Andorra",NA,2013,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"4","AD","Andorra",NA,2008,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"5","AD","Andorra",NA,2011,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"6","AD","Andorra",NA,2007,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"7","AD","Andorra",NA,2009,"AND","Europe & Central Asia (all income levels)","Andorra la Vella","1.5218","42.5075","High income: nonOECD","Not classified","Southwestern Europe"
+"8","AL","Albania",7.6,2007,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"9","AL","Albania",9.3,2013,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"10","AL","Albania",8.6,2012,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"11","AL","Albania",9.4,2010,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"12","AL","Albania",8.6,2008,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"13","AL","Albania",8.7,2011,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"14","AL","Albania",9.6,2009,"ALB","Europe & Central Asia (all income levels)","Tirane","19.8172","41.3317","Upper middle income","IBRD","Southeastern and Balkan"
+"15","AM","Armenia",17.2,2011,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"16","AM","Armenia",20.2,2010,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"17","AM","Armenia",15.6,2013,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"18","AM","Armenia",22.5,2007,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"19","AM","Armenia",21,2009,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"20","AM","Armenia",23,2008,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"21","AM","Armenia",15.9,2012,"ARM","Europe & Central Asia (all income levels)","Yerevan","44.509","40.1596","Lower middle income","Blend","Caucasus"
+"22","AS","American Samoa",NA,2011,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"23","AS","American Samoa",NA,2010,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"24","AS","American Samoa",NA,2009,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"25","AS","American Samoa",NA,2007,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"26","AS","American Samoa",NA,2012,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"27","AS","American Samoa",NA,2008,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"28","AS","American Samoa",NA,2013,"ASM","East Asia & Pacific (all income levels)","Pago Pago","-170.691","-14.2846","Upper middle income","Not classified",NA
+"29","AT","Austria",7.8,2012,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"30","AT","Austria",8,2013,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"31","AT","Austria",6.5,2007,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"32","AT","Austria",7.2,2011,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"33","AT","Austria",6.3,2008,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"34","AT","Austria",7.5,2010,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"35","AT","Austria",7,2009,"AUT","Europe & Central Asia (all income levels)","Vienna","16.3798","48.2201","High income: OECD","Not classified","Western Europe"
+"36","AU","Australia",5.7,2011,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"37","AU","Australia",5.7,2010,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"38","AU","Australia",5.6,2013,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"39","AU","Australia",5.7,2012,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"40","AU","Australia",5,2007,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"41","AU","Australia",5.7,2009,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"42","AU","Australia",5.4,2008,"AUS","East Asia & Pacific (all income levels)","Canberra","149.129","-35.282","High income: OECD","Not classified",NA
+"43","AZ","Azerbaijan",NA,2009,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"44","AZ","Azerbaijan",NA,2010,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"45","AZ","Azerbaijan",NA,2011,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"46","AZ","Azerbaijan",NA,2012,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"47","AZ","Azerbaijan",NA,2008,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"48","AZ","Azerbaijan",NA,2007,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"49","AZ","Azerbaijan",NA,2013,"AZE","Europe & Central Asia (all income levels)","Baku","49.8932","40.3834","Upper middle income","IBRD","Caucasus"
+"50","BA","Bosnia and Herzegovina",11.8,2010,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"51","BA","Bosnia and Herzegovina",9.4,2008,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"52","BA","Bosnia and Herzegovina",8.8,2007,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"53","BA","Bosnia and Herzegovina",14.4,2013,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"54","BA","Bosnia and Herzegovina",10.7,2009,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"55","BA","Bosnia and Herzegovina",14.2,2012,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"56","BA","Bosnia and Herzegovina",13.6,2011,"BIH","Europe & Central Asia (all income levels)","Sarajevo","18.4214","43.8607","Upper middle income","Blend","Southeastern and Balkan"
+"57","BE","Belgium",5,2010,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"58","BE","Belgium",4.6,2011,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"59","BE","Belgium",5.8,2012,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"60","BE","Belgium",4.6,2009,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"61","BE","Belgium",6.2,2013,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"62","BE","Belgium",4.3,2007,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"63","BE","Belgium",3.3,2008,"BEL","Europe & Central Asia (all income levels)","Brussels","4.36761","50.8371","High income: OECD","Not classified","Western Europe"
+"64","BG","Bulgaria",10.5,2010,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"65","BG","Bulgaria",NA,2013,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"66","BG","Bulgaria",7.7,2007,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"67","BG","Bulgaria",10.8,2011,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"68","BG","Bulgaria",10.8,2009,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"69","BG","Bulgaria",11.4,2008,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"70","BG","Bulgaria",10.1,2012,"BGR","Europe & Central Asia (all income levels)","Sofia","23.3238","42.7105","Upper middle income","IBRD","Southeastern and Balkan"
+"71","BM","Bermuda",NA,2010,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"72","BM","Bermuda",NA,2013,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"73","BM","Bermuda",NA,2012,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"74","BM","Bermuda",NA,2011,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"75","BM","Bermuda",NA,2007,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"76","BM","Bermuda",NA,2009,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"77","BM","Bermuda",NA,2008,"BMU","North America","Hamilton","-64.706","32.3293","High income: nonOECD","Not classified",NA
+"78","BN","Brunei Darussalam",9.097,2012,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"79","BN","Brunei Darussalam",9.285,2013,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"80","BN","Brunei Darussalam",9.712,2009,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"81","BN","Brunei Darussalam",NA,2008,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"82","BN","Brunei Darussalam",8.901,2011,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"83","BN","Brunei Darussalam",10.252,2010,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"84","BN","Brunei Darussalam",NA,2007,"BRN","East Asia & Pacific (all income levels)","Bandar Seri Begawan","114.946","4.94199","High income: nonOECD","Not classified",NA
+"85","BY","Belarus",14.4,2012,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"86","BY","Belarus",18.6,2008,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"87","BY","Belarus",16,2007,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"88","BY","Belarus",16.7,2009,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"89","BY","Belarus",13.6,2010,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"90","BY","Belarus",14,2011,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"91","BY","Belarus",14.1,2013,"BLR","Europe & Central Asia (all income levels)","Minsk","27.5766","53.9678","Upper middle income","IBRD","Eastern Europe"
+"92","CA","Canada",5.1,2011,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"93","CA","Canada",4.7,2010,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"94","CA","Canada",4.5,2009,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"95","CA","Canada",3.5,2008,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"96","CA","Canada",5.1,2013,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"97","CA","Canada",5.1,2012,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"98","CA","Canada",3.7,2007,"CAN","North America","Ottawa","-75.6919","45.4215","High income: OECD","Not classified",NA
+"99","CH","Switzerland",5.1,2009,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"100","CH","Switzerland",NA,2013,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"101","CH","Switzerland",4.6,2007,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"102","CH","Switzerland",5.4,2010,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"103","CH","Switzerland",4.8,2008,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"104","CH","Switzerland",5.5,2011,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"105","CH","Switzerland",5.5,2012,"CHE","Europe & Central Asia (all income levels)","Bern","7.44821","46.948","High income: OECD","Not classified","Western Europe"
+"106","CN","China",NA,2013,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"107","CN","China",6.3,2012,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"108","CN","China",6.4,2011,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"109","CN","China",6.1,2010,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"110","CN","China",5.6,2009,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"111","CN","China",6,2008,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"112","CN","China",5.7,2007,"CHN","East Asia & Pacific (all income levels)","Beijing","116.286","40.0495","Upper middle income","IBRD",NA
+"113","CY","Cyprus",NA,2007,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"114","CY","Cyprus",4.9,2011,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"115","CY","Cyprus",8.6,2013,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"116","CY","Cyprus",4.9,2009,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"117","CY","Cyprus",5.9,2010,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"118","CY","Cyprus",6.9,2008,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"119","CY","Cyprus",5.2,2012,"CYP","Europe & Central Asia (all income levels)","Nicosia","33.3736","35.1676","High income: nonOECD","Not classified","Southeastern and Balkan"
+"120","CZ","Czech Republic",6.9,2012,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"121","CZ","Czech Republic",6.1,2009,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"122","CZ","Czech Republic",7.5,2013,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"123","CZ","Czech Republic",6.5,2010,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"124","CZ","Czech Republic",6.5,2011,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"125","CZ","Czech Republic",5.5,2008,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"126","CZ","Czech Republic",5,2007,"CZE","Europe & Central Asia (all income levels)","Prague","14.4205","50.0878","High income: OECD","Not classified","Eastern Europe"
+"127","DE","Germany",4.8,2009,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"128","DE","Germany",4.3,2007,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"129","DE","Germany",4.4,2011,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"130","DE","Germany",4.7,2012,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"131","DE","Germany",4.5,2008,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"132","DE","Germany",5.5,2013,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"133","DE","Germany",4.3,2010,"DEU","Europe & Central Asia (all income levels)","Berlin","13.4115","52.5235","High income: OECD","Not classified","Western Europe"
+"134","DK","Denmark",5.5,2009,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"135","DK","Denmark",5.3,2012,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"136","DK","Denmark",5.4,2010,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"137","DK","Denmark",5.1,2011,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"138","DK","Denmark",6.5,2013,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"139","DK","Denmark",5.5,2008,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"140","DK","Denmark",6.2,2007,"DNK","Europe & Central Asia (all income levels)","Copenhagen","12.5681","55.6763","High income: OECD","Not classified","Nordic"
+"141","EE","Estonia",8.9,2011,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"142","EE","Estonia",9.9,2012,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"143","EE","Estonia",8.7,2009,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"144","EE","Estonia",8.2,2008,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"145","EE","Estonia",11.3,2013,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"146","EE","Estonia",9.3,2010,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"147","EE","Estonia",8.6,2007,"EST","Europe & Central Asia (all income levels)","Tallinn","24.7586","59.4392","High income: OECD","Not classified","Baltic"
+"148","ES","Spain",6.4,2009,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"149","ES","Spain",5.9,2008,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"150","ES","Spain",6.3,2013,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"151","ES","Spain",5.9,2011,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"152","ES","Spain",6.1,2010,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"153","ES","Spain",5.8,2012,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"154","ES","Spain",6.7,2007,"ESP","Europe & Central Asia (all income levels)","Madrid","-3.70327","40.4167","High income: OECD","Not classified","Southwestern Europe"
+"155","FI","Finland",8,2007,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"156","FI","Finland",4.4,2012,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"157","FI","Finland",6.2,2008,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"158","FI","Finland",5.5,2010,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"159","FI","Finland",6.4,2009,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"160","FI","Finland",4.4,2011,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"161","FI","Finland",4.9,2013,"FIN","Europe & Central Asia (all income levels)","Helsinki","24.9525","60.1608","High income: OECD","Not classified","Nordic"
+"162","FJ","Fiji",NA,2011,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"163","FJ","Fiji",NA,2010,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"164","FJ","Fiji",NA,2009,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"165","FJ","Fiji",NA,2008,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"166","FJ","Fiji",NA,2007,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"167","FJ","Fiji",NA,2013,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"168","FJ","Fiji",NA,2012,"FJI","East Asia & Pacific (all income levels)","Suva","178.399","-18.1149","Lower middle income","IBRD",NA
+"169","FM","Micronesia, Fed. Sts.",NA,2007,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"170","FM","Micronesia, Fed. Sts.",NA,2013,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"171","FM","Micronesia, Fed. Sts.",NA,2012,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"172","FM","Micronesia, Fed. Sts.",NA,2011,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"173","FM","Micronesia, Fed. Sts.",NA,2010,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"174","FM","Micronesia, Fed. Sts.",NA,2009,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"175","FM","Micronesia, Fed. Sts.",NA,2008,"FSM","East Asia & Pacific (all income levels)","Palikir","158.185","6.91771","Lower middle income","IDA",NA
+"176","FO","Faeroe Islands",NA,2013,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"177","FO","Faeroe Islands",NA,2012,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"178","FO","Faeroe Islands",NA,2007,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"179","FO","Faeroe Islands",NA,2011,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"180","FO","Faeroe Islands",NA,2010,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"181","FO","Faeroe Islands",NA,2008,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"182","FO","Faeroe Islands",NA,2009,"FRO","Europe & Central Asia (all income levels)","Torshavn","-6.91181","61.8926","High income: nonOECD","Not classified","Nordic"
+"183","FR","France",4.1,2009,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"184","FR","France",5.4,2013,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"185","FR","France",NA,2007,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"186","FR","France",3.7,2008,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"187","FR","France",4.9,2010,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"188","FR","France",5.2,2012,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"189","FR","France",4.8,2011,"FRA","Europe & Central Asia (all income levels)","Paris","2.35097","48.8566","High income: OECD","Not classified","Western Europe"
+"190","GB","United Kingdom",5.1,2011,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"191","GB","United Kingdom",NA,2013,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"192","GB","United Kingdom",5.4,2010,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"193","GB","United Kingdom",4.4,2008,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"194","GB","United Kingdom",5.5,2007,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"195","GB","United Kingdom",5,2012,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"196","GB","United Kingdom",5.4,2009,"GBR","Europe & Central Asia (all income levels)","London","-0.126236","51.5002","High income: OECD","Not classified","Western Europe"
+"197","GE","Georgia",18.3,2009,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"198","GE","Georgia",17.1,2008,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"199","GE","Georgia",20.4,2007,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"200","GE","Georgia",16.6,2011,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"201","GE","Georgia",16.9,2010,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"202","GE","Georgia",16.7,2012,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"203","GE","Georgia",17.5,2013,"GEO","Europe & Central Asia (all income levels)","Tbilisi","44.793","41.71","Lower middle income","Blend","Caucasus"
+"204","GL","Greenland",NA,2011,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"205","GL","Greenland",NA,2008,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"206","GL","Greenland",NA,2013,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"207","GL","Greenland",NA,2012,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"208","GL","Greenland",NA,2007,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"209","GL","Greenland",NA,2009,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"210","GL","Greenland",NA,2010,"GRL","Europe & Central Asia (all income levels)","Nuuk","-51.7214","64.1836","High income: nonOECD","Not classified","Nordic"
+"211","GR","Greece",7.3,2010,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"212","GR","Greece",7.7,2009,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"213","GR","Greece",6.8,2007,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"214","GR","Greece",NA,2012,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"215","GR","Greece",6.4,2008,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"216","GR","Greece",NA,2011,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"217","GR","Greece",8.3,2013,"GRC","Europe & Central Asia (all income levels)","Athens","23.7166","37.9792","High income: OECD","Not classified","Southeastern and Balkan"
+"218","GU","Guam",NA,2011,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"219","GU","Guam",NA,2010,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"220","GU","Guam",NA,2009,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"221","GU","Guam",NA,2008,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"222","GU","Guam",NA,2007,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"223","GU","Guam",NA,2013,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"224","GU","Guam",NA,2012,"GUM","East Asia & Pacific (all income levels)","Agana","144.794","13.4443","High income: nonOECD","Not classified",NA
+"225","HK","Hong Kong SAR, China",8.7,2013,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"226","HK","Hong Kong SAR, China",8.8,2012,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"227","HK","Hong Kong SAR, China",8.2,2011,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"228","HK","Hong Kong SAR, China",12.3,2010,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"229","HK","Hong Kong SAR, China",11.2,2008,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"230","HK","Hong Kong SAR, China",10.4,2007,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"231","HK","Hong Kong SAR, China",12.9,2009,"HKG","East Asia & Pacific (all income levels)","","114.109","22.3964","High income: nonOECD","Not classified",NA
+"232","HR","Croatia",14.2,2012,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"233","HR","Croatia",13.3,2008,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"234","HR","Croatia",13.9,2013,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"235","HR","Croatia",13.8,2009,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"236","HR","Croatia",13.8,2010,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"237","HR","Croatia",13.6,2011,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"238","HR","Croatia",12.3,2007,"HRV","Europe & Central Asia (all income levels)","Zagreb","15.9614","45.8069","High income: nonOECD","IBRD","Southeastern and Balkan"
+"239","HU","Hungary",9.1,2011,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"240","HU","Hungary",8.2,2010,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"241","HU","Hungary",9.1,2012,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"242","HU","Hungary",7.6,2009,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"243","HU","Hungary",NA,2007,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"244","HU","Hungary",7.1,2008,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"245","HU","Hungary",NA,2013,"HUN","Europe & Central Asia (all income levels)","Budapest","19.0408","47.4984","High income: OECD","Not classified","Eastern Europe"
+"246","ID","Indonesia",12.5,2013,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"247","ID","Indonesia",12.2,2012,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"248","ID","Indonesia",11,2011,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"249","ID","Indonesia",10.7,2010,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"250","ID","Indonesia",10.1,2009,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"251","ID","Indonesia",9.1,2008,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"252","ID","Indonesia",9.2,2007,"IDN","East Asia & Pacific (all income levels)","Jakarta","106.83","-6.19752","Lower middle income","IBRD",NA
+"253","IE","Ireland",5.435,2009,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"254","IE","Ireland",4.395,2007,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"255","IE","Ireland",3.746,2008,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"256","IE","Ireland",7.422,2012,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"257","IE","Ireland",5.497,2010,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"258","IE","Ireland",8.073,2013,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"259","IE","Ireland",6.439,2011,"IRL","Europe & Central Asia (all income levels)","Dublin","-6.26749","53.3441","High income: OECD","Not classified","Western Europe"
+"260","IM","Isle of Man",NA,2013,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"261","IM","Isle of Man",NA,2012,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"262","IM","Isle of Man",NA,2011,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"263","IM","Isle of Man",NA,2010,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"264","IM","Isle of Man",NA,2009,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"265","IM","Isle of Man",NA,2008,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"266","IM","Isle of Man",NA,2007,"IMN","Europe & Central Asia (all income levels)","Douglas","-4.47928","54.1509","High income: nonOECD","Not classified",NA
+"267","IS","Iceland",19.4,2011,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"268","IS","Iceland",19,2010,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"269","IS","Iceland",10.9,2007,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"270","IS","Iceland",12.4,2008,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"271","IS","Iceland",14.9,2009,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"272","IS","Iceland",22.6,2012,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"273","IS","Iceland",23.3,2013,"ISL","Europe & Central Asia (all income levels)","Reykjavik","-21.8952","64.1353","High income: OECD","Not classified","Nordic"
+"274","IT","Italy",5,2010,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"275","IT","Italy",5.5,2013,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"276","IT","Italy",4.6,2007,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"277","IT","Italy",4.1,2008,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"278","IT","Italy",4.8,2009,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"279","IT","Italy",5.4,2011,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"280","IT","Italy",5.4,2012,"ITA","Europe & Central Asia (all income levels)","Rome","12.4823","41.8955","High income: OECD","Not classified","Southwestern Europe"
+"281","JG","Channel Islands",NA,2013,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"282","JG","Channel Islands",NA,2012,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"283","JG","Channel Islands",NA,2009,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"284","JG","Channel Islands",NA,2008,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"285","JG","Channel Islands",NA,2007,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"286","JG","Channel Islands",NA,2011,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"287","JG","Channel Islands",NA,2010,"CHI","Europe & Central Asia (all income levels)","","","","High income: nonOECD","Not classified",NA
+"288","JP","Japan",5.3,2007,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"289","JP","Japan",5.5,2013,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"290","JP","Japan",NA,2012,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"291","JP","Japan",4.8,2011,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"292","JP","Japan",4.7,2010,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"293","JP","Japan",3.6,2009,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"294","JP","Japan",4.5,2008,"JPN","East Asia & Pacific (all income levels)","Tokyo","139.77","35.67","High income: OECD","Not classified",NA
+"295","KG","Kyrgyz Republic",20.1,2011,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"296","KG","Kyrgyz Republic",20,2010,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"297","KG","Kyrgyz Republic",22,2009,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"298","KG","Kyrgyz Republic",23.3,2008,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"299","KG","Kyrgyz Republic",21.3,2007,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"300","KG","Kyrgyz Republic",16.9,2013,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"301","KG","Kyrgyz Republic",18.3,2012,"KGZ","Europe & Central Asia (all income levels)","Bishkek","74.6057","42.8851","Low income","IDA",NA
+"302","KH","Cambodia",NA,2013,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"303","KH","Cambodia",NA,2012,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"304","KH","Cambodia",NA,2011,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"305","KH","Cambodia",NA,2010,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"306","KH","Cambodia",NA,2009,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"307","KH","Cambodia",NA,2008,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"308","KH","Cambodia",NA,2007,"KHM","East Asia & Pacific (all income levels)","Phnom Penh","104.874","11.5556","Low income","IDA",NA
+"309","KI","Kiribati",NA,2013,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"310","KI","Kiribati",NA,2012,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"311","KI","Kiribati",NA,2011,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"312","KI","Kiribati",NA,2010,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"313","KI","Kiribati",NA,2009,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"314","KI","Kiribati",NA,2008,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"315","KI","Kiribati",NA,2007,"KIR","East Asia & Pacific (all income levels)","Tarawa","172.979","1.32905","Lower middle income","IDA",NA
+"316","KP","Korea, Dem. Rep.",NA,2012,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"317","KP","Korea, Dem. Rep.",NA,2013,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"318","KP","Korea, Dem. Rep.",NA,2011,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"319","KP","Korea, Dem. Rep.",NA,2010,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"320","KP","Korea, Dem. Rep.",NA,2009,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"321","KP","Korea, Dem. Rep.",NA,2008,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"322","KP","Korea, Dem. Rep.",NA,2007,"PRK","East Asia & Pacific (all income levels)","Pyongyang","125.754","39.0319","Low income","Not classified",NA
+"323","KR","Korea, Rep.",7.3,2009,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"324","KR","Korea, Rep.",6.3,2008,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"325","KR","Korea, Rep.",NA,2007,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"326","KR","Korea, Rep.",8.1,2013,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"327","KR","Korea, Rep.",8.2,2012,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"328","KR","Korea, Rep.",8.1,2011,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"329","KR","Korea, Rep.",7.6,2010,"KOR","East Asia & Pacific (all income levels)","Seoul","126.957","37.5323","High income: OECD","IBRD",NA
+"330","KV","Kosovo",9.1,2013,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"331","KV","Kosovo",9.6,2012,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"332","KV","Kosovo",9.5,2011,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"333","KV","Kosovo",9.4,2010,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"334","KV","Kosovo",NA,2008,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"335","KV","Kosovo",NA,2007,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"336","KV","Kosovo",NA,2009,"KSV","Europe & Central Asia (all income levels)","Pristina","20.926","42.565","Lower middle income","IDA",NA
+"337","KZ","Kazakhstan",13.2,2013,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"338","KZ","Kazakhstan",14.5,2012,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"339","KZ","Kazakhstan",5.2,2009,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"340","KZ","Kazakhstan",12.2,2008,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"341","KZ","Kazakhstan",NA,2007,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"342","KZ","Kazakhstan",13.8,2011,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"343","KZ","Kazakhstan",11.3,2010,"KAZ","Europe & Central Asia (all income levels)","Astana","71.4382","51.1879","Upper middle income","IBRD",NA
+"344","LA","Lao PDR",NA,2013,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"345","LA","Lao PDR",NA,2012,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"346","LA","Lao PDR",NA,2011,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"347","LA","Lao PDR",NA,2010,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"348","LA","Lao PDR",NA,2007,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"349","LA","Lao PDR",NA,2009,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"350","LA","Lao PDR",NA,2008,"LAO","East Asia & Pacific (all income levels)","Vientiane","102.177","18.5826","Lower middle income","IDA",NA
+"351","LI","Liechtenstein",NA,2011,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"352","LI","Liechtenstein",NA,2007,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"353","LI","Liechtenstein",NA,2010,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"354","LI","Liechtenstein",NA,2013,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"355","LI","Liechtenstein",NA,2009,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"356","LI","Liechtenstein",NA,2008,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"357","LI","Liechtenstein",NA,2012,"LIE","Europe & Central Asia (all income levels)","Vaduz","9.52148","47.1411","High income: nonOECD","Not classified","Western Europe"
+"358","LT","Lithuania",10.8,2011,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"359","LT","Lithuania",12.3,2012,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"360","LT","Lithuania",7.9,2007,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"361","LT","Lithuania",12.5,2013,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"362","LT","Lithuania",8.5,2010,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"363","LT","Lithuania",8.2,2008,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"364","LT","Lithuania",7.3,2009,"LTU","Europe & Central Asia (all income levels)","Vilnius","25.2799","54.6896","Upper middle income","Not classified","Baltic"
+"365","LU","Luxembourg",6.4,2013,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"366","LU","Luxembourg",6.3,2012,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"367","LU","Luxembourg",5,2011,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"368","LU","Luxembourg",5.2,2010,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"369","LU","Luxembourg",5.5,2009,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"370","LU","Luxembourg",4.8,2008,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"371","LU","Luxembourg",5,2007,"LUX","Europe & Central Asia (all income levels)","Luxembourg","6.1296","49.61","High income: OECD","Not classified",NA
+"372","LV","Latvia",11.4,2013,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"373","LV","Latvia",7.7,2009,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"374","LV","Latvia",9.3,2010,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"375","LV","Latvia",9.4,2011,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"376","LV","Latvia",7.7,2008,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"377","LV","Latvia",7.9,2007,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"378","LV","Latvia",11.2,2012,"LVA","Europe & Central Asia (all income levels)","Riga","24.1048","56.9465","Upper middle income","Not classified","Baltic"
+"379","MC","Monaco",NA,2012,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"380","MC","Monaco",NA,2010,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"381","MC","Monaco",NA,2013,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"382","MC","Monaco",NA,2007,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"383","MC","Monaco",NA,2011,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"384","MC","Monaco",NA,2008,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"385","MC","Monaco",NA,2009,"MCO","Europe & Central Asia (all income levels)","Monaco","7.41891","43.7325","High income: nonOECD","Not classified","Western Europe"
+"386","MD","Moldova",16.1,2009,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"387","MD","Moldova",15.8,2011,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"388","MD","Moldova",16,2010,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"389","MD","Moldova",16.3,2007,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"390","MD","Moldova",16.1,2013,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"391","MD","Moldova",17.2,2012,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"392","MD","Moldova",17,2008,"MDA","Europe & Central Asia (all income levels)","Chisinau","28.8497","47.0167","Lower middle income","IDA","Southeastern and Balkan"
+"393","ME","Montenegro",NA,2013,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"394","ME","Montenegro",10.3,2012,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"395","ME","Montenegro",10.9,2011,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"396","ME","Montenegro",8,2007,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"397","ME","Montenegro",11,2009,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"398","ME","Montenegro",8.4,2008,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"399","ME","Montenegro",10.6,2010,"MNE","Europe & Central Asia (all income levels)","Podgorica","19.2595","42.4602","Upper middle income","IBRD","Southeastern and Balkan"
+"400","MH","Marshall Islands",NA,2013,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"401","MH","Marshall Islands",NA,2012,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"402","MH","Marshall Islands",NA,2011,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"403","MH","Marshall Islands",NA,2010,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"404","MH","Marshall Islands",NA,2007,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"405","MH","Marshall Islands",NA,2009,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"406","MH","Marshall Islands",NA,2008,"MHL","East Asia & Pacific (all income levels)","Majuro","171.135","7.11046","Lower middle income","IDA",NA
+"407","MK","Macedonia, FYR",11.3,2013,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"408","MK","Macedonia, FYR",11.2,2012,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"409","MK","Macedonia, FYR",11.4,2007,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"410","MK","Macedonia, FYR",11.5,2008,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"411","MK","Macedonia, FYR",10.6,2010,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"412","MK","Macedonia, FYR",11.4,2009,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"413","MK","Macedonia, FYR",11,2011,"MKD","Europe & Central Asia (all income levels)","Skopje","21.4361","42.0024","Upper middle income","IBRD","Southeastern and Balkan"
+"414","MM","Myanmar",NA,2009,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"415","MM","Myanmar",NA,2008,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"416","MM","Myanmar",NA,2007,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"417","MM","Myanmar",NA,2012,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"418","MM","Myanmar",NA,2011,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"419","MM","Myanmar",NA,2010,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"420","MM","Myanmar",NA,2013,"MMR","East Asia & Pacific (all income levels)","Naypyidaw","95.9562","21.914","Low income","IDA",NA
+"421","MN","Mongolia",NA,2013,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"422","MN","Mongolia",NA,2012,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"423","MN","Mongolia",NA,2011,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"424","MN","Mongolia",NA,2010,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"425","MN","Mongolia",NA,2009,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"426","MN","Mongolia",NA,2008,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"427","MN","Mongolia",NA,2007,"MNG","East Asia & Pacific (all income levels)","Ulaanbaatar","106.937","47.9129","Lower middle income","IDA",NA
+"428","MO","Macao SAR, China",NA,2012,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"429","MO","Macao SAR, China",NA,2011,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"430","MO","Macao SAR, China",NA,2009,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"431","MO","Macao SAR, China",NA,2008,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"432","MO","Macao SAR, China",NA,2013,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"433","MO","Macao SAR, China",NA,2010,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"434","MO","Macao SAR, China",NA,2007,"MAC","East Asia & Pacific (all income levels)","","113.55","22.1667","High income: nonOECD","Not classified",NA
+"435","MP","Northern Mariana Islands",NA,2011,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"436","MP","Northern Mariana Islands",NA,2013,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"437","MP","Northern Mariana Islands",NA,2012,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"438","MP","Northern Mariana Islands",NA,2010,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"439","MP","Northern Mariana Islands",NA,2009,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"440","MP","Northern Mariana Islands",NA,2007,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"441","MP","Northern Mariana Islands",NA,2008,"MNP","East Asia & Pacific (all income levels)","Saipan","145.765","15.1935","High income: nonOECD","Not classified",NA
+"442","MY","Malaysia",7.4,2007,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"443","MY","Malaysia",8.9,2011,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"444","MY","Malaysia",9.6,2013,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"445","MY","Malaysia",9,2009,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"446","MY","Malaysia",9.4,2012,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"447","MY","Malaysia",9.4,2010,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"448","MY","Malaysia",8.1,2008,"MYS","East Asia & Pacific (all income levels)","Kuala Lumpur","101.684","3.12433","Upper middle income","IBRD",NA
+"449","NC","New Caledonia",NA,2013,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"450","NC","New Caledonia",NA,2012,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"451","NC","New Caledonia",NA,2011,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"452","NC","New Caledonia",NA,2010,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"453","NC","New Caledonia",NA,2009,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"454","NC","New Caledonia",NA,2008,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"455","NC","New Caledonia",NA,2007,"NCL","East Asia & Pacific (all income levels)","Noum'ea","166.464","-22.2677","High income: nonOECD","Not classified",NA
+"456","NL","Netherlands",4.3,2011,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"457","NL","Netherlands",4.3,2009,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"458","NL","Netherlands",4.7,2012,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"459","NL","Netherlands",4.4,2010,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"460","NL","Netherlands",3.3,2007,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"461","NL","Netherlands",3.2,2008,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"462","NL","Netherlands",4.8,2013,"NLD","Europe & Central Asia (all income levels)","Amsterdam","4.89095","52.3738","High income: OECD","Not classified","Western Europe"
+"463","NO","Norway",6.4,2007,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"464","NO","Norway",6,2009,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"465","NO","Norway",NA,2012,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"466","NO","Norway",5.9,2008,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"467","NO","Norway",NA,2013,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"468","NO","Norway",6.7,2010,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"469","NO","Norway",6.8,2011,"NOR","Europe & Central Asia (all income levels)","Oslo","10.7387","59.9138","High income: OECD","Not classified","Nordic"
+"470","NZ","New Zealand",5.3,2007,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"471","NZ","New Zealand",5.5,2009,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"472","NZ","New Zealand",6.4,2008,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"473","NZ","New Zealand",6.6,2011,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"474","NZ","New Zealand",7.2,2013,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"475","NZ","New Zealand",7.2,2012,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"476","NZ","New Zealand",6,2010,"NZL","East Asia & Pacific (all income levels)","Wellington","174.776","-41.2865","High income: OECD","Not classified",NA
+"477","PF","French Polynesia",NA,2013,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"478","PF","French Polynesia",NA,2012,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"479","PF","French Polynesia",NA,2011,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"480","PF","French Polynesia",NA,2010,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"481","PF","French Polynesia",NA,2009,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"482","PF","French Polynesia",NA,2008,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"483","PF","French Polynesia",NA,2007,"PYF","East Asia & Pacific (all income levels)","Papeete","-149.57","-17.535","High income: nonOECD","Not classified",NA
+"484","PG","Papua New Guinea",NA,2012,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"485","PG","Papua New Guinea",NA,2013,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"486","PG","Papua New Guinea",NA,2011,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"487","PG","Papua New Guinea",NA,2010,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"488","PG","Papua New Guinea",NA,2009,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"489","PG","Papua New Guinea",NA,2008,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"490","PG","Papua New Guinea",NA,2007,"PNG","East Asia & Pacific (all income levels)","Port Moresby","147.194","-9.47357","Lower middle income","Blend",NA
+"491","PH","Philippines",9.5,2009,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"492","PH","Philippines",8.9,2008,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"493","PH","Philippines",11.7,2007,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"494","PH","Philippines",11.1,2011,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"495","PH","Philippines",10.2,2010,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"496","PH","Philippines",10.8,2013,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"497","PH","Philippines",11.7,2012,"PHL","East Asia & Pacific (all income levels)","Manila","121.035","14.5515","Lower middle income","IBRD",NA
+"498","PL","Poland",9,2013,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"499","PL","Poland",8.7,2012,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"500","PL","Poland",7.8,2011,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"501","PL","Poland",8.2,2010,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"502","PL","Poland",8.1,2009,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"503","PL","Poland",8,2007,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"504","PL","Poland",7.5,2008,"POL","Europe & Central Asia (all income levels)","Warsaw","21.02","52.26","High income: OECD","IBRD","Eastern Europe"
+"505","PT","Portugal",5.8,2008,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"506","PT","Portugal",6.5,2007,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"507","PT","Portugal",5.3,2011,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"508","PT","Portugal",6.7,2012,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"509","PT","Portugal",6.7,2010,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"510","PT","Portugal",6.5,2009,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"511","PT","Portugal",6.9,2013,"PRT","Europe & Central Asia (all income levels)","Lisbon","-9.13552","38.7072","High income: OECD","Not classified","Southwestern Europe"
+"512","PW","Palau",NA,2012,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"513","PW","Palau",NA,2011,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"514","PW","Palau",NA,2010,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"515","PW","Palau",NA,2009,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"516","PW","Palau",NA,2008,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"517","PW","Palau",NA,2007,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"518","PW","Palau",NA,2013,"PLW","East Asia & Pacific (all income levels)","Koror","134.479","7.34194","Upper middle income","IBRD",NA
+"519","RO","Romania",8,2012,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"520","RO","Romania",9,2008,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"521","RO","Romania",10.7,2007,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"522","RO","Romania",8.6,2009,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"523","RO","Romania",8.1,2011,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"524","RO","Romania",8.9,2010,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"525","RO","Romania",7.5,2013,"ROU","Europe & Central Asia (all income levels)","Bucharest","26.0979","44.4479","Upper middle income","IBRD","Southeastern and Balkan"
+"526","RS","Serbia",21.1,2013,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"527","RS","Serbia",19.7,2010,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"528","RS","Serbia",20.7,2009,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"529","RS","Serbia",20.6,2011,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"530","RS","Serbia",23.6,2008,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"531","RS","Serbia",21,2007,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"532","RS","Serbia",20.5,2012,"SRB","Europe & Central Asia (all income levels)","Belgrade","20.4656","44.8024","Upper middle income","IBRD","Southeastern and Balkan"
+"533","RU","Russian Federation",13.3,2007,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"534","RU","Russian Federation",11.8,2011,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"535","RU","Russian Federation",12.9,2010,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"536","RU","Russian Federation",13.1,2009,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"537","RU","Russian Federation",10.8,2008,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"538","RU","Russian Federation",11.5,2013,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"539","RU","Russian Federation",11.8,2012,"RUS","Europe & Central Asia (all income levels)","Moscow","37.6176","55.7558","Upper middle income","IBRD",NA
+"540","SB","Solomon Islands",NA,2013,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"541","SB","Solomon Islands",NA,2012,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"542","SB","Solomon Islands",NA,2011,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"543","SB","Solomon Islands",NA,2010,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"544","SB","Solomon Islands",NA,2009,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"545","SB","Solomon Islands",NA,2008,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"546","SB","Solomon Islands",NA,2007,"SLB","East Asia & Pacific (all income levels)","Honiara","159.949","-9.42676","Lower middle income","IDA",NA
+"547","SE","Sweden",4.7,2008,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"548","SE","Sweden",4.8,2007,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"549","SE","Sweden",5,2009,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"550","SE","Sweden",NA,2010,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"551","SE","Sweden",NA,2011,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"552","SE","Sweden",NA,2013,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"553","SE","Sweden",NA,2012,"SWE","Europe & Central Asia (all income levels)","Stockholm","18.0645","59.3327","High income: OECD","Not classified","Nordic"
+"554","SG","Singapore",8.2,2013,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"555","SG","Singapore",9,2010,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"556","SG","Singapore",8.3,2011,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"557","SG","Singapore",9.2,2009,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"558","SG","Singapore",7.2,2008,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"559","SG","Singapore",9.2,2007,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"560","SG","Singapore",8.9,2012,"SGP","East Asia & Pacific (all income levels)","Singapore","103.85","1.28941","High income: nonOECD","Not classified",NA
+"561","SI","Slovenia",8.4,2008,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"562","SI","Slovenia",8.4,2007,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"563","SI","Slovenia",8.3,2009,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"564","SI","Slovenia",NA,2013,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"565","SI","Slovenia",8.2,2010,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"566","SI","Slovenia",NA,2012,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"567","SI","Slovenia",NA,2011,"SVN","Europe & Central Asia (all income levels)","Ljubljana","14.5044","46.0546","High income: OECD","Not classified","Eastern Europe"
+"568","SK","Slovak Republic",8.2,2008,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"569","SK","Slovak Republic",12.1,2013,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"570","SK","Slovak Republic",8,2007,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"571","SK","Slovak Republic",11.7,2012,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"572","SK","Slovak Republic",10.8,2011,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"573","SK","Slovak Republic",9.7,2010,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"574","SK","Slovak Republic",9.6,2009,"SVK","Europe & Central Asia (all income levels)","Bratislava","17.1073","48.1484","High income: OECD","Not classified","Eastern Europe"
+"575","SM","San Marino",NA,2011,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"576","SM","San Marino",NA,2010,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"577","SM","San Marino",NA,2009,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"578","SM","San Marino",NA,2013,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"579","SM","San Marino",NA,2008,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"580","SM","San Marino",NA,2012,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"581","SM","San Marino",NA,2007,"SMR","Europe & Central Asia (all income levels)","San Marino","12.4486","43.9322","High income: nonOECD","Not classified",NA
+"582","TH","Thailand",11.2,2012,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"583","TH","Thailand",10.3,2011,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"584","TH","Thailand",11.3,2010,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"585","TH","Thailand",9.8,2007,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"586","TH","Thailand",10.1,2008,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"587","TH","Thailand",10.9,2013,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"588","TH","Thailand",11,2009,"THA","East Asia & Pacific (all income levels)","Bangkok","100.521","13.7308","Upper middle income","IBRD",NA
+"589","TJ","Tajikistan",19.586,2013,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"590","TJ","Tajikistan",NA,2007,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"591","TJ","Tajikistan",19.267,2011,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"592","TJ","Tajikistan",21.956,2009,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"593","TJ","Tajikistan",24.422,2008,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"594","TJ","Tajikistan",20.493,2012,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"595","TJ","Tajikistan",18.908,2010,"TJK","Europe & Central Asia (all income levels)","Dushanbe","68.7864","38.5878","Low income","IDA",NA
+"596","TL","Timor-Leste",NA,2010,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"597","TL","Timor-Leste",NA,2012,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"598","TL","Timor-Leste",NA,2011,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"599","TL","Timor-Leste",NA,2009,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"600","TL","Timor-Leste",NA,2008,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"601","TL","Timor-Leste",NA,2007,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"602","TL","Timor-Leste",NA,2013,"TLS","East Asia & Pacific (all income levels)","Dili","125.567","-8.56667","Lower middle income","IDA",NA
+"603","TM","Turkmenistan",NA,2010,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"604","TM","Turkmenistan",NA,2013,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"605","TM","Turkmenistan",NA,2012,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"606","TM","Turkmenistan",NA,2011,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"607","TM","Turkmenistan",NA,2009,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"608","TM","Turkmenistan",NA,2008,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"609","TM","Turkmenistan",NA,2007,"TKM","Europe & Central Asia (all income levels)","Ashgabat","58.3794","37.9509","Lower middle income","IBRD",NA
+"610","TO","Tonga",NA,2007,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"611","TO","Tonga",NA,2009,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"612","TO","Tonga",NA,2008,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"613","TO","Tonga",NA,2012,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"614","TO","Tonga",NA,2013,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"615","TO","Tonga",NA,2011,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"616","TO","Tonga",NA,2010,"TON","East Asia & Pacific (all income levels)","Nuku'alofa","-175.216","-21.136","Lower middle income","IDA",NA
+"617","TR","Turkey",11.7,2011,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"618","TR","Turkey",12.8,2007,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"619","TR","Turkey",12.3,2010,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"620","TR","Turkey",12.1,2012,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"621","TR","Turkey",12.5,2009,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"622","TR","Turkey",12.1,2008,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"623","TR","Turkey",11.2,2013,"TUR","Europe & Central Asia (all income levels)","Ankara","32.3606","39.7153","Upper middle income","IBRD","Caucasus"
+"624","TV","Tuvalu",NA,2013,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"625","TV","Tuvalu",NA,2012,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"626","TV","Tuvalu",NA,2011,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"627","TV","Tuvalu",NA,2007,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"628","TV","Tuvalu",NA,2010,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"629","TV","Tuvalu",NA,2009,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"630","TV","Tuvalu",NA,2008,"TUV","East Asia & Pacific (all income levels)","Funafuti","179.089567","-8.6314877","Lower middle income","IDA",NA
+"631","UA","Ukraine",14.8,2011,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"632","UA","Ukraine",11.6,2007,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"633","UA","Ukraine",14.6,2010,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"634","UA","Ukraine",13.1,2009,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"635","UA","Ukraine",12.9,2008,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"636","UA","Ukraine",15.1,2013,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"637","UA","Ukraine",15,2012,"UKR","Europe & Central Asia (all income levels)","Kiev","30.5038","50.4536","Lower middle income","IBRD","Eastern Europe"
+"638","US","United States",12.2,2011,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"639","US","United States",11.8,2013,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"640","US","United States",12,2012,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"641","US","United States",12.7,2010,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"642","US","United States",12.4,2009,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"643","US","United States",9.3,2008,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"644","US","United States",10.3,2007,"USA","North America","Washington D.C.","-77.032","38.8895","High income: OECD","Not classified",NA
+"645","UZ","Uzbekistan",13.3,2009,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"646","UZ","Uzbekistan",13.9,2008,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"647","UZ","Uzbekistan",14.5,2007,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"648","UZ","Uzbekistan",11.2,2013,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"649","UZ","Uzbekistan",13.3,2010,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"650","UZ","Uzbekistan",11.4,2012,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"651","UZ","Uzbekistan",12.2,2011,"UZB","Europe & Central Asia (all income levels)","Tashkent","69.269","41.3052","Lower middle income","Blend",NA
+"652","VN","Vietnam",NA,2013,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"653","VN","Vietnam",9.931,2012,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"654","VN","Vietnam",8.867,2010,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"655","VN","Vietnam",8.971,2008,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"656","VN","Vietnam",NA,2007,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"657","VN","Vietnam",9.299,2011,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"658","VN","Vietnam",8.603,2009,"VNM","East Asia & Pacific (all income levels)","Hanoi","105.825","21.0069","Lower middle income","Blend",NA
+"659","VU","Vanuatu",NA,2012,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"660","VU","Vanuatu",NA,2011,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"661","VU","Vanuatu",NA,2008,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"662","VU","Vanuatu",NA,2009,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"663","VU","Vanuatu",NA,2013,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"664","VU","Vanuatu",NA,2010,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"665","VU","Vanuatu",NA,2007,"VUT","East Asia & Pacific (all income levels)","Port-Vila","168.321","-17.7404","Lower middle income","IDA",NA
+"666","WS","Samoa",18.6,2009,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"667","WS","Samoa",19.2,2008,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"668","WS","Samoa",NA,2007,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"669","WS","Samoa",18.9,2011,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"670","WS","Samoa",17.3,2010,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"671","WS","Samoa",18.8,2012,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA
+"672","WS","Samoa",NA,2013,"WSM","East Asia & Pacific (all income levels)","Apia","-171.752","-13.8314","Lower middle income","IDA",NA

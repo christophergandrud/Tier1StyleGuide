@@ -1,0 +1,122 @@
+---
+title: "European Bank Capitalization Levels"
+author: "Nicholas Chung and Christopher Gandrud"
+date: "27 July 2014"
+output: 
+    html_document:
+        theme: null
+        css: /git_repositories/Tier1StyleGuide/css/Tier1Main.css
+---
+
+```{r include=FALSE}
+# Load packages
+library(dplyr)
+library(rCharts)
+library(DataCombine)
+library(xtable)
+
+# Load capitalisation data
+MainData <- read.csv('data/CapitalData.csv', stringsAsFactors=FALSE)
+```
+
+> In this report we present an overview of European bank's capitalization levels.
+
+## Comparison to Other Regions
+
+Over the past three years European banks have been increasing their capital levels relative to East Asian and North American Banks.
+
+#### Median Bank Capital to Total Assets (%)
+
+```{r message=FALSE, echo=FALSE, results='asis'}
+# Find yearly medians
+MainAll <- group_by(MainData, region, year)
+MedianData <- summarise(MainAll, MedianCap = median(FB.BNK.CAPA.ZS, na.rm = TRUE))                                             
+
+# Plot
+Plot1 <- nPlot(MedianCap~year, group = 'region', type = "lineChart", 
+               data =  MedianData)
+
+Plot1$chart(forceY = c(0, 12))
+Plot1$set(width = 700, height = 300)
+Plot1$show('inline', include_assets = TRUE, cdn = TRUE)
+````
+
+Source: World Bank. *Click individual countries to highlight/hide.*
+
+## Comparison of Bank Capitalization Levels Across European Regions
+
+Within Europe the banks in the Caucasus have the highest median capitalization levels, though the level has been declining. While Southwestern, Nordic and Western European banks tend to have the lowest capitalization levels. 
+
+#### Median Bank Capital to Total Assets (%), by European Region
+
+```{r message=FALSE, echo=FALSE, results='asis'}
+# Keep only European countries
+Europe <- DropNA(MainData, 'EuropeanRegions')
+
+# Find yearly medians
+EuropeGrouped <-group_by(Europe, EuropeanRegions, year)
+MedianEurope <- summarise(EuropeGrouped, MedianCap = median(FB.BNK.CAPA.ZS, 
+                                                            na.rm = TRUE))                                             
+
+# Plot
+Plot1 <- nPlot(MedianCap~year, group = 'EuropeanRegions', type = "lineChart", 
+               data =  MedianEurope)
+
+Plot1$chart(forceY = c(0, 25))
+Plot1$set(width = 700, height = 300)
+Plot1$show('inline', include_assets = TRUE, cdn = TRUE)
+```
+
+Source: World Bank. *Click individual countries to highlight/hide.*
+
+## Western Europe
+
+Western Europe is by far the most critically under-capitalized region within Europe with an average, regional capital ratio of 6.33%. The Netherlands in particular had the lowest capitalization levels at 4.8% in 2013.
+
+#### Median Bank Capital to Total Assets (%), Western European Countries
+
+```{r message=FALSE, echo=FALSE, results='asis'}
+# Keep only Western Eurpean Countries
+WEurope <- subset(MainData, EuropeanRegions == 'Western Europe')
+
+WEuropeGrouped <- group_by(WEurope, country, year)
+MedianWE <- summarise(WEuropeGrouped, MedianCap = median(FB.BNK.CAPA.ZS, 
+                                                            na.rm = TRUE))  
+
+# Plot
+Plot1 <- nPlot(MedianCap~year, group = 'country', type = "lineChart", 
+               data =  MedianWE)
+
+Plot1$chart(forceY = c(0, 10))
+Plot1$set(width = 700, height = 300)
+Plot1$show('inline', include_assets = TRUE, cdn = TRUE)
+```
+
+Source: World Bank. *Click individual countries to highlight/hide.*
+
+## 2013 Country Summaries
+
+#### 2013 Median Bank Capital to Total Assets (%), by country
+
+```{r message=FALSE, echo=FALSE, results='asis'}
+Europe2013 <- subset(Europe, year == 2013)
+
+# Order from lowest to highest
+Europe2013 <- arrange(Europe2013, FB.BNK.CAPA.ZS)
+Europe2013$FB.BNK.CAPA.ZS <- round(Europe2013$FB.BNK.CAPA.ZS, digits = 2)
+Europe2013$FB.BNK.CAPA.ZS[is.na(Europe2013$FB.BNK.CAPA.ZS)] <- 'No Data'
+
+# Clean
+Europe2013 <- Europe2013[, c('country', 'FB.BNK.CAPA.ZS')]
+names(Europe2013) <- c('Country', 'Bank capital/assets (%)')
+
+# Replace NA with No Data
+
+
+Table2013 <- xtable(Europe2013, )
+print(Table2013, type = 'html', include.rownames = FALSE, hline.after = NULL)
+```
+
+<footer>
+&copy; Tier 1 Exchange (2014)
+</footer>
