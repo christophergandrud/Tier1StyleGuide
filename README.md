@@ -1,4 +1,4 @@
-[<img src="img/LOGO.png" align="left"/>]()
+[<img src="img/LOGO.png" align="right"/>]()
 
 Style Guide (v0.1)
 ===============
