@@ -7,3 +7,7 @@ The example report has two main files:
 - An RMarkdown file (*EuropeanCapitalization.Rmd*) that creates the graphs/tables and places them into the main output document (*EuropeanCapitalization.html*), which it also creates. 
 
 The RMarkdown file also relies on the main CSS style file (*Tier1StyleGuide/css/Tier1Main.css*). This applies the appropriate formatting.
+
+---
+
+&copy; Tier 1 Exchange (2014)
