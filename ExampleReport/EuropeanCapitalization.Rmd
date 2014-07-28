@@ -13,7 +13,7 @@ output:
 library(dplyr)
 library(rCharts)
 library(DataCombine)
-library(xtable)
+?library(xtable)
 
 # Load capitalisation data
 MainData <- read.csv('data/CapitalData.csv', stringsAsFactors=FALSE)
