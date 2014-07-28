@@ -1,2 +1,5 @@
 # SASS related ignore
 .sass-cache
+
+# R related
+.Rhistory
