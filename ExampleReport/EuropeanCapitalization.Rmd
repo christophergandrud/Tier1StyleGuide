@@ -1,7 +1,7 @@
 ---
 title: "European Bank Capitalization Levels"
 author: "Nicholas Chung and Christopher Gandrud"
-date: "27 July 2014"
+date: "29 July 2014"
 output: 
     html_document:
         theme: null
@@ -13,7 +13,7 @@ output:
 library(dplyr)
 library(rCharts)
 library(DataCombine)
-?library(xtable)
+library(xtable)
 
 # Load capitalisation data
 MainData <- read.csv('data/CapitalData.csv', stringsAsFactors=FALSE)
@@ -117,6 +117,4 @@ Table2013 <- xtable(Europe2013, )
 print(Table2013, type = 'html', include.rownames = FALSE, hline.after = NULL)
 ```
 
-<footer>
-&copy; Tier 1 Exchange (2014)
-</footer>
+<p class="footer">Copyright &copy; 2014 Tier 1 Exchange LLC. All Rights Reserved.</p>
