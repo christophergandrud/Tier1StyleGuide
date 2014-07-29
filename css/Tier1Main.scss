@@ -1,20 +1,48 @@
 /***************************** Copyright: Tier 1 Exchange ****************************/
+/* v0.1.1 */
+
+/* Characterset */
+@charset "UTF-8";
 
 /* Import fonts */
-@import url(http://fonts.googleapis.com/css?family=Gudea);
-@charset "UTF-8";
+@font-face {
+  font-family: NovecentowideUltraLightBold;
+  font-weight: normal;
+  font-style: normal;
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/Novecentowide-Medium-webfont.eot');
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/Novecentowide-Medium-webfont.eot?#iefix') format('embedded-opentype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/Novecentowide-Medium-webfont.woff') format('woff'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/Novecentowide-Medium-webfont.ttf') format('truetype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/Novecentowide-Medium-webfont.svg#NovecentowideUltraLightBold') format('svg');
+}
+@font-face {
+  font-family: open_sanslight;
+  font-weight: normal;
+  font-style: normal;
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-light-webfont.eot');
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-light-webfont.eot?#iefix') format('embedded-opentype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-light-webfont.woff') format('woff'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-light-webfont.ttf') format('truetype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-light-webfont.svg#open_sanslight') format('svg');
+}
+@font-face {
+  font-family: open_sansregular;
+  font-weight: normal;
+  font-style: normal;
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-regular-webfont.eot');
+  src: url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-regular-webfont.woff') format('woff'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-regular-webfont.ttf') format('truetype'), url('http://www.tier1exchange.com/consilium/sites/all/themes/consilium/fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+}
+
+
 
 /****************************** SASS variable definitions ****************************/
 
 /* Font */
-$font-stack: 'Gudea', sans-serif;
+
+$font-stack-header: open_sanslight;
+$font-stack-main: 'open_sansregular';
 $top-font-size: 40px;
 
 /* Colours */
 $primary-text-color: #333;
 $background-color: #fff;
+$dark-background-color: #303030;
 $top-header-color: #103459;
-$lower-header-color: #5795cc;
+$lower-header-color: #5aaddd;
 $link-color: #4f7d5c;
 $faint-color: #C0C0C0;
 
@@ -44,10 +72,14 @@ html {
 }
 
 body {
-    font: 100% $font-stack;
+    font: 100% $font-stack-main;
     color: $primary-text-color;
     margin: 0 auto;
     max-width: $body-max;
+}
+
+h1, h2, h3, h4 {
+    font: $font-stack-header;
 }
 
 h1, h2 {
@@ -86,6 +118,14 @@ h4.author, h4.date {
 
 p {
     text-align: justify;
+    font-size: $top-font-size * 0.4;
+}
+
+p.footer {
+    padding-top: 10%;
+    line-height: 1.6;
+    font-size: $top-font-size * 0.35;
+
 }
 
 blockquote {
@@ -107,8 +147,7 @@ a {
 }
 
 a:hover {
-    color: $top-header-color;
-    text-decoration-line: underline;
+    color: $lower-header-color;
 }
 
 img {
@@ -119,7 +158,7 @@ img {
 }
 
 table {
-    border-collapse: collapse;  
+    border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
     border-spacing: 20% 10%;
@@ -147,10 +186,6 @@ td {
     padding: 2%;
 }
 
-footer {
-    padding: 10% 0% 10% 0%;
-}
-
 /* Shapes and images */
 
 #rectangle-top {
@@ -170,5 +205,3 @@ footer {
 	height: 15px;
     background: $link-color;
 }
-
-
