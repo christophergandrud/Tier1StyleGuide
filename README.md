@@ -1,6 +1,6 @@
 [<img src="img/LOGO.png" align="right"/>]()
 
-Style Guide (v0.1)
+Style Guide (v0.1.1)
 ===============
 
 
@@ -14,4 +14,4 @@ sass --watch css/Tier1Main.scss:css/Tier1Main.css --style compressed
 
 ---
 
-&copy; Tier 1 Exchange (2014)
+Copyright &copy; 2014 Tier 1 Exchange LLC. All Rights Reserved
