@@ -1,6 +1,6 @@
 [<img src="img/LOGO.png" align="right"/>]()
 
-Style Guide (v0.1.1)
+Style Guide (v0.1.2)
 ===============
 
 
