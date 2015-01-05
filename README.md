@@ -14,4 +14,4 @@ sass --watch css/Tier1Main.scss:css/Tier1Main.css --style compressed
 
 ---
 
-Copyright &copy; 2014 Tier 1 Exchange LLC. All Rights Reserved
+Copyright &copy; 2015 Tier 1 Exchange LLC. All Rights Reserved
